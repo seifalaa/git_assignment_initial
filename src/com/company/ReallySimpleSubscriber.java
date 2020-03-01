@@ -1,3 +1,4 @@
+package com.company;
 
 public class ReallySimpleSubscriber implements ISubscriber {
 	@Override
